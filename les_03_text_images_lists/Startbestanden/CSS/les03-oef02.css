@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 2em;
+    color: #FA6432;
+}
+
+.small-fotos {
+    margin: 15px;
+    float: left;
+    opacity: 0.5;
+    border-radius: 5%;
+}
+
+.small-fotos:hover{
+    opacity: 1;
+    box-shadow: 5px 5px 5px #FA6432;
+    -moz-box-shadow: 0px 5px 5px #FA6432;
+    -webkit-box-shadow: 0px 5px 5px #fa6432;
+}

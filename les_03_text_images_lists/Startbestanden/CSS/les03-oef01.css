@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+h1 {
+    color: #FA6432;
+}
+
+
+.logo {
+    width: 200px;
+}
+
+.styled-hr {
+    height: 1px;
+    background-color:#000a1e;
+    margin: 0 auto;
+    border: none;
+}
+
+p {
+    margin: 0;
+    padding: 15px;
+}
+
+.bottomcontainer {
+    background-color: #000a1e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+
+a:link{
+    color: #000a1e;
+    text-decoration: none;
+}
+a:hover{
+    color: #FA6432;
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: underline;
+}

@@ -1,0 +1,29 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+table.border {
+        border: solid 1px #000a1e;
+        border-collapse: collapse;
+}
+
+.dag {
+    background-color: #009cab;
+    width: 75px;
+}
+
+
+table.border th{
+    border: solid 1px #000a1e;
+    border-collapse: collapse;
+    background-color: #FA6432;
+    color: white;
+    height: 50px;
+}
+
+table.border td{
+    border: solid 1px #000a1e;
+    border-collapse: collapse;
+    text-align: center;
+    height: 50px;
+}

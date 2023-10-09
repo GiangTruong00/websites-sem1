@@ -1,0 +1,8 @@
+Oefening 2
+
+
+doctype html
+title = SprtFocus vzw - Zwemlessen - Sportkampen - Voetbal
+charset utf-8
+19 errors + 1 warning => niet valid
+favicon (favorite icon) is een kleine 16x16 pixel icoon dat op de top van het tabblad verschijnt
